@@ -1,0 +1,11 @@
+package com.practice;
+
+public class DisplayMazePaths {
+	public static void main(String[] args) {
+		System.out.println(getPaths(3, 3, ""));
+	}
+
+	public static int getPaths(int row, int col, String path) {
+
+	}
+}

@@ -1,0 +1,17 @@
+package com.practice.string;
+
+public class Test {
+	private void drive() {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+
+class Vehicle extends Test {
+	@Override
+	public final void drive() {
+		// TODO Auto-generated method stub
+
+	}
+}

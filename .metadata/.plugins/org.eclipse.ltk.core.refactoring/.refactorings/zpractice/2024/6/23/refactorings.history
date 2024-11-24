@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ListNode.java&apos; to &apos;dsa/src/com.dsa.linklist.interviewqna&apos;&#x0D;&#x0A;- Original project: &apos;zpractice&apos;&#x0D;&#x0A;- Destination element: &apos;dsa/src/com.dsa.linklist.interviewqna&apos;&#x0D;&#x0A;- Original element: &apos;com.practice.linklist.ListNode.java&apos;" description="Copy compilation unit" destination="=dsa/src&lt;com.dsa.linklist.interviewqna" element1="/src&lt;com.practice.linklist{ListNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1717579517196" units="1" version="1.0"/>
+</session>

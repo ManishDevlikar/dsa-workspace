@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.interviewprep.comparator&apos; to &apos;interviewprep/src&apos;&#x0D;&#x0A;- Original project: &apos;interviewprep&apos;&#x0D;&#x0A;- Destination element: &apos;interviewprep/src&apos;&#x0D;&#x0A;- Original element: &apos;interviewprep/src/com.interviewprep.comparator&apos;" description="Copy package" destination="/src" element1="/src&lt;com.interviewprep.comparator" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1719286925667" version="1.0"/>
+</session>

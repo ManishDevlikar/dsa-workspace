@@ -1,0 +1,10 @@
+package problems;
+
+public class KthSmallest {
+	public static void main(String[] args) {
+		
+	}
+	public static smallest(int arr[],int k) {
+		
+	}
+}
