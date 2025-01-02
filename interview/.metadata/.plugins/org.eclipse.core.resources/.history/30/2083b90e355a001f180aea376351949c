@@ -1,0 +1,18 @@
+package com.interview_questionsandconcept.patterns;
+
+public class AZPattern {
+	public static void main(String[] args) {
+		print(5);
+	}
+
+	private static void print(int num) {
+		for (int i = 0; i < num; i++) {
+			for (int j = i; j < num; j++) {
+				if (j >= i) {
+					System.out.print((char) ('a' + j) + " ");
+				}
+			}
+			System.out.println();
+		}
+	}
+}
